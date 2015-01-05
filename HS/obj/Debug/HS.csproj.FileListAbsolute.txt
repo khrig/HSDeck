@@ -1,0 +1,17 @@
+C:\Code\HS\HS\bin\Debug\HS.exe.config
+C:\Code\HS\HS\obj\Debug\HS.csprojResolveAssemblyReference.cache
+C:\Code\HS\HS\obj\Debug\MainWindow.baml
+C:\Code\HS\HS\obj\Debug\MainWindow.g.cs
+C:\Code\HS\HS\obj\Debug\App.g.cs
+C:\Code\HS\HS\obj\Debug\HS_MarkupCompile.cache
+C:\Code\HS\HS\obj\Debug\HS.g.resources
+C:\Code\HS\HS\obj\Debug\HS.Properties.Resources.resources
+C:\Code\HS\HS\obj\Debug\HS.csproj.GenerateResource.Cache
+C:\Code\HS\HS\bin\Debug\HS.exe
+C:\Code\HS\HS\bin\Debug\HS.pdb
+C:\Code\HS\HS\obj\Debug\HS.exe
+C:\Code\HS\HS\obj\Debug\HS.pdb
+C:\Code\HS\HS\bin\Debug\Newtonsoft.Json.dll
+C:\Code\HS\HS\bin\Debug\Newtonsoft.Json.xml
+C:\Code\HS\HS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\HS\HS\obj\Debug\HS_MarkupCompile.lref
